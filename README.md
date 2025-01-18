@@ -32,7 +32,9 @@ dispalyed dynamically.
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/7befd14239c74cfab3079d55c6191b6d?sid=cff521c6-a68d-4c78-a540-fb31642b4c5f' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://www.loom.com/share/7befd14239c74cfab3079d55c6191b6d?sid=17bb3d39-33b2-42af-87e9-d99d5fbc545b" target="_blank">
+    Watch Video Walkthrough
+</a>
 
  
 <!-- Replace this with whatever GIF tool you used! -->
